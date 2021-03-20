@@ -75,4 +75,22 @@ Por fim o painel de avaliação, onde será usada outra plataforma interligada c
 
 # Testar
 
+Para acessar o sistema, use as credenciais abaixo de acordo com seu nível de acessso.
+[Demo](http://josemagalhaes.arasistemas.com.br/hesichiaescolar/)
 
+```
+Usuários: Administrador
+Username: admin
+password: admin
+```
+```
+Usuários: Professor
+Username: prof
+password: prof
+```
+```
+Usuários: Estudante
+Username: aluno
+password: aluno
+```
+# Testar
